@@ -1,4 +1,4 @@
-# Sell For You
+# SellForYou
 
 - 쇼핑몰 통합관리 솔루션
 - 프로젝트 구성원: 이정빈(F/e), Team ITEZ(B/e)
