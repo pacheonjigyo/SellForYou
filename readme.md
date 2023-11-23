@@ -4,9 +4,6 @@
 - 프로젝트 구성원: 이정빈(F/e), Team ITEZ(B/e)
 - 프로젝트 기간: 2022. 01. ~ 2021. 06
 
-Download Available on Chrome Web Store:
-https://chromewebstore.google.com/detail/%EC%85%80%ED%8F%AC%EC%9C%A0/cdghhijdbghkgklajgahabkbbpijddlo?hl=ko
-
 # 프로젝트 개요
 
 - 해외구매대행 프로세스 자동화
@@ -26,3 +23,6 @@ https://chromewebstore.google.com/detail/%EC%85%80%ED%8F%AC%EC%9C%A0/cdghhijdbgh
 - React Virtualized
 - Webpack
 - MobX
+
+Download Available on Chrome Web Store:
+https://chromewebstore.google.com/detail/%EC%85%80%ED%8F%AC%EC%9C%A0/cdghhijdbghkgklajgahabkbbpijddlo?hl=ko
